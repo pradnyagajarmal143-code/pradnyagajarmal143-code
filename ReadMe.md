@@ -1,5 +1,69 @@
 # 💫 About Me:
-I am currently working on Building scalable React and TypeScript applications, reusable UI components, microfrontend architecture, and AI-powered conversational interfaces.<br>I am looking to collaborate on Open-source React and TypeScript projects, developer tools, AI-powered applications, and RAG-based projects.<br>I am looking for help with Advanced React patterns, frontend system design, scalable application architecture, and production-ready LLM integrations.<br>I am currently learning AWS, advanced RAG pipelines, LLM agents, MCP integrations, and AI application architecture.<br>I enjoy turning complex engineering problems into clean, reusable solutions—and exploring how AI can make developer workflows smarter.
+Hi, I'm Pradnya Gajarmal 👋
+
+Senior Software Engineer | React | TypeScript | Python | AI Engineering
+
+I’m a software engineer with 5–6 years of experience building scalable web applications, reusable UI components, and full-stack solutions.
+
+My expertise includes React, TypeScript, frontend architecture, Python, and REST APIs. I’m also exploring AI engineering, Retrieval-Augmented Generation (RAG), and LLM-powered applications.
+
+💻 Building scalable and maintainable web applications
+
+⚛️ Working with React, TypeScript, state management, and reusable components
+
+🐍 Developing backend services using Python and FastAPI
+
+🤖 Exploring LangChain, Pinecone, LLMs, and RAG applications
+
+🏗️ Interested in microfrontend architecture and frontend performance
+
+✍️ Sharing technical learnings and development insights on Hashnode
+
+🛠️ Tech Stack
+
+Frontend: React, TypeScript, JavaScript, Redux, Zustand, Material UI
+
+Backend: Python, FastAPI, Django, REST APIs
+
+AI & Machine Learning: LangChain, Pinecone, Sentence Transformers, OpenAI API
+
+Databases: PostgreSQL, MySQL
+
+Testing & Tools: Jest, Storybook, Git, GitHub Actions, CI/CD
+
+Architecture: Microfrontends, Monorepos, Component-Driven Development
+
+🚀 Featured Projects
+
+🤖 AI-Powered RAG Application
+
+Developing AI applications that retrieve relevant information from a knowledge base and generate context-aware responses.
+
+Tech Stack: Python, FastAPI, LangChain, Sentence Transformers, Pinecone
+
+⚛️ React & TypeScript Applications
+
+Building responsive interfaces, reusable components, and maintainable frontend architectures with a focus on performance and code quality.
+
+Tech Stack: React, TypeScript, Zustand, Material UI
+
+🔗 Full-Stack Applications
+
+Developing end-to-end applications with REST API integrations, backend services, database operations, and frontend-backend communication.
+
+Tech Stack: React, Python, FastAPI, SQL
+
+Replace these examples with links to your actual repositories and describe only features you have implemented.
+
+🌱 Currently Learning
+
+Advanced React patterns and frontend system design
+
+AI engineering, RAG pipelines, and LLM integrations
+
+AWS and cloud deployment
+
+AI agents and modern application architectures
 
 
 ## 🌐 Socials:
